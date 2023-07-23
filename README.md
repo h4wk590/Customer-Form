@@ -1,1 +1,3 @@
-# Using PHP forms to get data from MySQL database
+# Customer PHP form Assignment
+
+- Basic CRUD function in PHP w/mySQL database
